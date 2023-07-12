@@ -369,12 +369,12 @@ padding-bottom: 45px;
     animation: hero-text 2s alternate-reverse;
 }
 @keyframes hero-text {
-    0%{
+    0% {
         transform: translateX(200px);
-
+    }
     100%{
         transform: matrix(0);
     }
-    }
+
 
 }
